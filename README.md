@@ -1,5 +1,5 @@
 # Auditory Kernels
-This repository has some code for training the kernels (in Julia) and for computing the encodings (Python/Julia). There is also a Jupyter-notebook which hopefully helps get an idea of the Python code, and what it means to encode and decode the speech signals. Additionally, the reading materials I send previously are also added. 
+This repository has some code for training the kernels (in Julia) and for computing the encodings (Python/Julia). There is also a Jupyter-notebook which hopefully helps get an idea of the Python code, and what it means to encode and decode the speech signals.
 
 ## Introduction
 Note: GitLab does not always render the mathematical typesetting properly :( It does work well in the Remarkable markdown editor....
